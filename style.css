@@ -7,7 +7,9 @@ h1 {
 .about {
     color: black;
 }
-
+.video{
+    text-align: center;
+}
 .jumbotron {
     background-color: #815b35;
     padding: 50px 50px;
